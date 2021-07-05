@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jean_thomassin@orange.fr
+	name = jean thomassin
